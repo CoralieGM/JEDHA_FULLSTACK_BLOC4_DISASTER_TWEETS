@@ -17,11 +17,8 @@ But, it’s not always clear whether a person’s words are actually announcing 
 ## Details for certification purpose
 
 * email adress: cora.michel@gmail.com
-* video link: 
+* video link: https://share.vidyard.com/watch/sByvE69wB6CUGA3STkM9ho?
 
 ## Authors
 
 **Coralie GUILLOTTE* - [CoralieGM](https://github.com/CoralieGM)
-
-## Acknowledgements
-Thanks to all the Jedha's alumni and others who inspired me !
